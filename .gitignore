@@ -1,0 +1,10 @@
+.env
+__pycache__
+.cache
+.webcache
+junk
+.#*
+._*
+*.pyo
+*.pyc
+config.py

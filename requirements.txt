@@ -1,0 +1,6 @@
+dotenv
+paho-mqtt
+smbus
+scd4x
+icp10125
+
